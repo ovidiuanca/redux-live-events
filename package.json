@@ -1,0 +1,27 @@
+{
+  "name": "redux-live-events",
+  "version": "1.0.0",
+  "description": "A twitter clone made with React and Redux. Features live events, NoSQL. Hosted on Firebase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovidiucota/redux-live-events.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "npm",
+    "webpack",
+    "auth",
+    "es6"
+  ],
+  "author": "ovidiucota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovidiucota/redux-live-events/issues"
+  },
+  "homepage": "https://github.com/ovidiucota/redux-live-events#readme"
+}
